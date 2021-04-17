@@ -1,0 +1,15 @@
+[
+    {
+		"name": "Hajduk",
+		"replaces": "Swordsman",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 23,
+		"cost": 60,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"uniques": ["Can move after attacking","Great Generals II"],
+		"attackSound": "metalhit"
+	},
+]

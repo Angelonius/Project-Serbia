@@ -1,0 +1,4 @@
+Here are all the sources for the various image files used in this mod along with the.atlas file:
+
+1. Serbian flag: https://thenounproject.com/search/?q=serbia&i=2615373 by Xinh Studio
+2. Hajduk saber: https://thenounproject.com/search/?q=saber&i=3672505 by Jan Wagner

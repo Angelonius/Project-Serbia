@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Fitiljaca",
-		"replaces: Knight",
+		"replaces": "Knight",
 		"uniqueTo": "Serbia",
 		"unitType": "Ranged",
 		"range": 2,

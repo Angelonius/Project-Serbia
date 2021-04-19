@@ -13,4 +13,21 @@
 		"uniques": ["Can move after attacking","Great Generals II"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Fitiljaca",
+		"replaces": "Knight",
+		"uniqueTo": "Serbia",
+		"unitType": "Ranged",
+		"range": 2,
+		"movement": 6,
+		"strength": 25,
+		"rangedStrength": 25,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]"],
+		"promotions": ["Logistics"],
+		"attackSound": "shot"
+	},
 ]

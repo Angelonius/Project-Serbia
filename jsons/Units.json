@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Fitiljaca",
-		"replaces": "Knight",
+		"replaces: Knight",
 		"uniqueTo": "Serbia",
 		"unitType": "Ranged",
 		"range": 2,
@@ -23,9 +23,9 @@
 		"strength": 20,
 		"rangedStrength": 20,
 		"cost": 150,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]"],
 		"promotions": ["Logistics"],
 		"attackSound": "shot"

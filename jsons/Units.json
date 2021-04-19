@@ -2,6 +2,7 @@
     {
 		"name": "Hajduk",
 		"replaces": "Swordsman",
+	        "uniqueTo": "Serbia",
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 23,

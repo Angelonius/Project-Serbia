@@ -6,14 +6,21 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 NationIcons/Serbia
   rotate: false
-  xy: 204, 102
+  xy: 406, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Hajduk
+UnitIcons/Fitiljaca
   rotate: false
   xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hajduk
+  rotate: false
+  xy: 204, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

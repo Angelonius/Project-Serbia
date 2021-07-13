@@ -10,7 +10,8 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Can move after attacking","Great Generals II"],
+		"uniques": ["Can move after attacking"],
+	        "promotions": ["Great Generals II"],
 		"attackSound": "metalhit"
 	},
 	{

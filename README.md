@@ -11,3 +11,5 @@ v.1.1: Updated the stats on the Hajduk, added in the Fitiljaca.
 v.1.2: Updated the game.atlas and game.png files.
 
 v.1.3: Updated the Hajduk's uniques and promotions.
+
+v.1.4: Updated the Hajduk and Fitiljaca in accord to the current updates to the base game.

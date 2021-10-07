@@ -16,6 +16,7 @@
 		"tradeRequest": "You can trade with us.",
 		"outerColor": [218,165,32],
 		"innerColor": [0,0,0],
+	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
 		"uniques": ["+1 Sight for all land military units","-[25]% [Land] unit maintenance costs","Melee units pay no movement cost to pillage"],
 		"cities": ["Stari Ras","Bor","Negotin","Pozarevac","Zajecar","Uzice","Leskovac","Valjevo","Pristina","Djakovica",

@@ -26,8 +26,9 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Replaceable Parts",
+		"requiredResource": "Horses",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Horses]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Logistics"],
 		"attackSound": "shot"
 	},
